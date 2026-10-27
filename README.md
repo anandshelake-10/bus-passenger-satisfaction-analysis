@@ -183,7 +183,7 @@ WHERE Punctuality IN ('Poor', 'Very Poor');   -- returns 36 respondents
 bus-passenger-satisfaction-analysis/
 ├── data/
 │   ├── Passenger_Survey_Data.csv
-│   └── Passenger_Survey_Data.xlsx
+│   └── Passenger_Survey.xlsx
 ├── sql/
 │   └── Passenger_Survey.sql
 ├── report/
