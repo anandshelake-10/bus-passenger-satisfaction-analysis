@@ -1,0 +1,105 @@
+Respondent_ID,Age,Gender,Occupation,Monthly_Income,Travelling,Time_preference,Online_Booking_Preference,Way_of_payment,Factor_influence,Awareness_Other_Operators,Comparison_with_other,Bus_Condition,Punctuality,Delays_Frequency,Overcrowded,Staff_Behavior,Ticket_Pricing,Route_Satisfaction,Booking_process,Understanding_needs,Overall_Satisfaction
+R001,18 - 25,Male,Student,Below Rs. 10000,Occasionally,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety",Yes,Better,Excellent,Average,Very often,Rarely,Excellent,Good,Very Satisfied,Good,Yes,Satisfied
+R002,18 - 25,Male,Student,Below Rs. 10000,Occasionally,Night,Yes,Cash,"Comfort, Timing, Availability",Yes,Better,Good,Good,Sometimes,Often,Good,Average,Satisfied,Good,Yes,Satisfied
+R003,18 - 25,Male,Student,Below Rs. 10000,Rarely,Night,Yes,Cash,"Comfort, Timing, Safety",No,Same,Average,Average,Sometimes,Sometimes,Average,Average,Satisfied,Average,Yes,Neutral
+R004,18 - 25,Female,Student,Below Rs. 10000,Rarely,Night,Yes,Cash,Price,No,Much Worse,Very Poor,Excellent,Never,Rarely,Poor,Average,Very Dissatisfied,Excellent,Yes,Very Dissatisfied
+R005,18 - 25,Female,Student,Below Rs. 10000,Occasionally,Morning,Yes,Online Payment,Comfort,Yes,Better,Good,Good,Rarely,Sometimes,Good,Good,Satisfied,Good,Yes,Satisfied
+R006,18 - 25,Female,Student,Rs.10000 - Rs.20000,Occasionally,Morning,Yes,Cash,Price,Yes,Much Better,Very Poor,Very Poor,Often,Often,Average,Poor,Satisfied,Poor,Yes,Satisfied
+R007,18 - 25,Female,Student,Above Rs.50000,Rarely,Night,Yes,Cash,"Price, Comfort, Safety",No,Better,Average,Good,Rarely,Sometimes,Average,Average,Satisfied,Good,Yes,Neutral
+R008,18 - 25,Female,Student,Below Rs. 10000,Rarely,Morning,Yes,Cash,"Price, Comfort, Timing, Availability, Safety",Yes,Much Better,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Very Satisfied,Very Poor,Yes,Very Satisfied
+R009,18 - 25,Male,Student,Rs.30001 - Rs.50000,Weekly,Morning,Yes,Online Payment,"Price, Comfort, Timing, Safety",Yes,Better,Good,Average,Sometimes,Sometimes,Good,Good,Neutral,Good,Yes,Satisfied
+R010,18 - 25,Male,Private sector employee,Rs.10000 - Rs.20000,Rarely,Night,Yes,Online Payment,Availability,Yes,Same,Average,Average,Rarely,Sometimes,Average,Average,Neutral,Average,Yes,Neutral
+R011,18 - 25,Male,Business,Rs.20001 - Rs.30000,Occasionally,Morning,Yes,Online Payment,Availability,Yes,Same,Average,Average,Sometimes,Often,Average,Average,Neutral,Average,Yes,Neutral
+R012,36 - 50,Male,Business,Rs.30001 - Rs.50000,Monthly,Night,Yes,Online Payment,Comfort,Yes,Better,Average,Average,Rarely,Rarely,Excellent,Average,Dissatisfied,Average,Yes,Satisfied
+R013,26 - 35,Male,Private sector employee,Rs.10000 - Rs.20000,Rarely,Morning,Yes,Online Payment,Price,Yes,Worse,Good,Good,Often,Often,Average,Average,Dissatisfied,Poor,Yes,Dissatisfied
+R014,18 - 25,Female,Private sector employee,Rs.30001 - Rs.50000,Monthly,Night,Yes,Online Payment,"Comfort, Availability, Punctuality",Yes,Better,Average,Good,Sometimes,Rarely,Good,Good,Neutral,Good,Yes,Neutral
+R015,18 - 25,Male,Private sector employee,Rs.10000 - Rs.20000,Occasionally,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",No,Same,Good,Average,Rarely,Rarely,Average,Good,Satisfied,Good,Yes,Satisfied
+R016,18 - 25,Female,Student,Below Rs. 10000,Occasionally,Morning,Yes,Cash,Safety,Yes,Much Better,Excellent,Good,Sometimes,Always,Good,Average,Satisfied,Good,Yes,Satisfied
+R017,18 - 25,Female,Student,Below Rs. 10000,Rarely,Night,Yes,Cash,Safety,No,Better,Good,Good,Sometimes,Always,Average,Average,Satisfied,Average,Yes,Very Satisfied
+R018,18 - 25,Male,Private sector employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Online Payment,Timing,No,Better,Average,Average,Sometimes,Often,Average,Good,Satisfied,Good,Yes,Satisfied
+R019,18 - 25,Female,Student,Above Rs.50000,Daily,Morning,No,Cash,Safety,No,Better,Excellent,Excellent,Sometimes,Sometimes,Average,Good,Satisfied,Good,Yes,Very Satisfied
+R020,36 - 50,Male,Business,Rs.30001 - Rs.50000,Occasionally,Morning,Yes,Through Agent,"Timing, Safety",Yes,Same,Average,Average,Sometimes,Sometimes,Good,Good,Satisfied,Average,Yes,Satisfied
+R021,26 - 35,Female,Private sector employee,Rs.10000 - Rs.20000,Occasionally,Night,Yes,Through Agent,"Timing, Safety",Yes,Better,Average,Good,Rarely,Sometimes,Good,Good,Satisfied,Average,Yes,Satisfied
+R022,18 - 25,Female,Government employee,Rs.30001 - Rs.50000,Monthly,Morning,Yes,Online Payment,"Comfort, Timing, Availability, Safety",Yes,Better,Good,Excellent,Rarely,Often,Good,Excellent,Very Satisfied,Average,Yes,Very Satisfied
+R023,18 - 25,Male,Private sector employee,Rs.30001 - Rs.50000,Rarely,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Same,Average,Average,Often,Often,Poor,Average,Neutral,Average,Yes,Neutral
+R024,36 - 50,Male,Business,Rs.30001 - Rs.50000,Occasionally,Morning,Yes,Online Payment,"Comfort, Timing, Availability, Safety",Yes,Better,Average,Average,Sometimes,Sometimes,Average,Average,Satisfied,Good,Yes,Satisfied
+R025,18 - 25,Female,Private sector employee,Rs.20001 - Rs.30000,Monthly,Morning,Yes,Cash,"Price, Comfort, Timing",Yes,Better,Average,Average,Sometimes,Sometimes,Good,Good,Satisfied,Good,Yes,Satisfied
+R026,18 - 25,Male,Student,Below Rs. 10000,Weekly,Night,Yes,Cash,Timing,Yes,Much Better,Average,Good,Sometimes,Sometimes,Average,Good,Neutral,Good,Yes,Satisfied
+R027,18 - 25,Female,Student,Below Rs. 10000,Rarely,Morning,Yes,Cash,Safety,Yes,Better,Average,Good,Rarely,Sometimes,Good,Poor,Neutral,Average,Yes,Satisfied
+R028,26 - 35,Male,Private sector employee,Rs.20001 - Rs.30000,Occasionally,Morning,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Good,Rarely,Rarely,Good,Good,Very Satisfied,Good,Yes,Very Satisfied
+R029,26 - 35,Male,Private sector employee,Rs.20001 - Rs.30000,Occasionally,Night,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Much Better,Excellent,Excellent,Never,Sometimes,Good,Excellent,Very Satisfied,Good,Yes,Very Satisfied
+R030,36 - 50,Male,Private sector employee,Rs.30001 - Rs.50000,Occasionally,Morning,Yes,Through Agent,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Good,Rarely,Sometimes,Excellent,Good,Satisfied,Good,Yes,Satisfied
+R031,18 - 25,Female,Private sector employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Average,Sometimes,Sometimes,Good,Good,Neutral,Good,Yes,Satisfied
+R032,36 - 50,Female,Private sector employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Through Agent,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Excellent,Good,Rarely,Rarely,Average,Average,Satisfied,Average,Yes,Neutral
+R033,26 - 35,Male,Private sector employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Good,Never,Rarely,Excellent,Excellent,Very Satisfied,Excellent,Yes,Very Satisfied
+R034,18 - 25,Female,Private sector employee,Rs.10000 - Rs.20000,Rarely,Morning,Yes,Online Payment,Safety,Yes,Better,Average,Average,Sometimes,Often,Average,Average,Satisfied,Average,No,Neutral
+R035,18 - 25,Male,Student,Below Rs. 10000,Occasionally,Night,Yes,Through Agent,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Worse,Poor,Average,Often,Sometimes,Poor,Poor,Neutral,Average,No,Neutral
+R036,26 - 35,Male,Private sector employee,Rs.20001 - Rs.30000,Occasionally,Morning,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Good,Sometimes,Rarely,Good,Good,Satisfied,Good,Yes,Satisfied
+R037,Below 18,Male,Student,Below Rs. 10000,Rarely,Night,No,Cash,"Price, Availability",Yes,Better,Average,Average,Often,Often,Average,Average,Satisfied,Average,Yes,Neutral
+R038,26 - 35,Female,Private sector employee,Rs.20001 - Rs.30000,Monthly,Morning,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Good,Rarely,Rarely,Excellent,Excellent,Very Satisfied,Excellent,Yes,Very Satisfied
+R039,36 - 50,Female,Private sector employee,Rs.30001 - Rs.50000,Monthly,Morning,Yes,Cash,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Good,Excellent,Rarely,Rarely,Good,Good,Satisfied,Good,Yes,Satisfied
+R040,18 - 25,Male,Government employee,Rs.10000 - Rs.20000,Monthly,Night,No,Cash,"Comfort, Safety, Punctuality",No,Same,Average,Average,Very often,Rarely,Very Poor,Average,Very Satisfied,Average,No,Very Satisfied
+R041,18 - 25,Male,Private sector employee,Rs.20001 - Rs.30000,Daily,Morning,Yes,Online Payment,"Timing, Availability",Yes,Much Better,Poor,Very Poor,Never,Sometimes,Poor,Good,Satisfied,Very Poor,Yes,Satisfied
+R042,18 - 25,Female,Student,Rs.10000 - Rs.20000,Occasionally,Night,Yes,Online Payment,"Comfort, Safety, Punctuality",Yes,Worse,Good,Excellent,Sometimes,Always,Very Poor,Average,Satisfied,Good,Yes,Neutral
+R043,36 - 50,Male,Homemaker,Rs.20001 - Rs.30000,Weekly,Morning,No,Online Payment,Punctuality,No,Same,Good,Good,Sometimes,Often,Good,Average,Dissatisfied,Very Poor,No,Very Satisfied
+R044,36 - 50,Female,Other,Rs.30001 - Rs.50000,Occasionally,Morning,Yes,Through Agent,"Comfort, Safety",Yes,Same,Poor,Good,Very often,Always,Good,Excellent,Very Satisfied,Poor,Yes,Satisfied
+R045,36 - 50,Female,Private sector employee,Below Rs. 10000,Rarely,Morning,Yes,Online Payment,Availability,Yes,Same,Average,Average,Sometimes,Sometimes,Average,Average,Neutral,Average,No,Neutral
+R046,26 - 35,Female,Private sector employee,Rs.10000 - Rs.20000,Rarely,Morning,Yes,Online Payment,"Price, Availability",Yes,Same,Average,Average,Sometimes,Often,Average,Average,Neutral,Average,No,Neutral
+R047,36 - 50,Male,Private sector employee,Rs.30001 - Rs.50000,Rarely,Night,Yes,Online Payment,Availability,Yes,Same,Average,Good,Often,Rarely,Average,Average,Dissatisfied,Poor,No,Neutral
+R048,Below 18,Male,Student,Below Rs. 10000,Rarely,Night,No,Through Agent,Punctuality,No,Much Worse,Average,Average,Sometimes,Sometimes,Average,Average,Dissatisfied,Poor,No,Dissatisfied
+R049,Below 18,Male,Student,Below Rs. 10000,Rarely,Night,No,Through Agent,Safety,No,Much Worse,Poor,Poor,Very often,Always,Very Poor,Very Poor,Dissatisfied,Average,No,Neutral
+R050,18 - 25,Male,Business,Rs.20001 - Rs.30000,Rarely,Morning,Yes,Online Payment,Availability,Yes,Same,Poor,Poor,Often,Often,Poor,Poor,Dissatisfied,Poor,No,Very Dissatisfied
+R051,Below 18,Male,Private sector employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Online Payment,Comfort,Yes,Worse,Very Poor,Very Poor,Very often,Sometimes,Poor,Poor,Dissatisfied,Average,No,Dissatisfied
+R052,18 - 25,Female,Student,Below Rs. 10000,Occasionally,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",No,Worse,Good,Very Poor,Very often,Sometimes,Excellent,Good,Neutral,Excellent,No,Neutral
+R053,18 - 25,Male,Private sector employee,Rs.10000 - Rs.20000,Occasionally,Morning,Yes,Online Payment,"Price, Comfort, Safety, Punctuality",Yes,Better,Good,Good,Sometimes,Sometimes,Good,Average,Neutral,Average,Yes,Satisfied
+R054,18 - 25,Male,Student,Below Rs. 10000,Rarely,Morning,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Same,Average,Average,Often,Sometimes,Good,Average,Neutral,Average,Yes,Neutral
+R055,18 - 25,Male,Student,Rs.10000 - Rs.20000,Weekly,Morning,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",Yes,Better,Average,Good,Rarely,Often,Average,Good,Satisfied,Average,Yes,Very Satisfied
+R056,26 - 35,Female,Business,Rs.20001 - Rs.30000,Occasionally,Morning,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",No,Same,Average,Good,Often,Rarely,Poor,Good,Dissatisfied,Poor,Yes,Very Satisfied
+R057,18 - 25,Female,Student,Rs.20001 - Rs.30000,Rarely,Night,Yes,Online Payment,"Price, Comfort, Timing, Safety",No,Better,Average,Average,Rarely,Sometimes,Good,Good,Satisfied,Good,Yes,Satisfied
+R058,18 - 25,Male,Other,Rs.10000 - Rs.20000,Monthly,Morning,Yes,Cash,Availability,No,Better,Average,Average,Never,Always,Good,Average,Neutral,Average,Yes,Neutral
+R059,18 - 25,Female,Student,Below Rs. 10000,Daily,Morning,Yes,Cash,Price,Yes,Much Better,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Very Satisfied,Very Poor,Yes,Very Satisfied
+R060,Below 18,Female,Student,Below Rs. 10000,Daily,Morning,Yes,Cash,Price,Yes,Much Better,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Very Satisfied,Very Poor,Yes,Very Satisfied
+R061,18 - 25,Female,Government employee,Below Rs. 10000,Daily,Morning,Yes,Cash,Price,Yes,Better,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Very Satisfied,Very Poor,Yes,Very Satisfied
+R062,26 - 35,Male,Student,Below Rs. 10000,Daily,Morning,Yes,Cash,Comfort,Yes,Better,Very Poor,Very Poor,Sometimes,Sometimes,Very Poor,Average,Neutral,Average,No,Neutral
+R063,Below 18,Female,Student,Below Rs. 10000,Daily,Night,Yes,Cash,Price,Yes,Much Better,Very Poor,Very Poor,Very often,Always,Poor,Very Poor,Very Satisfied,Very Poor,Yes,Very Satisfied
+R064,18 - 25,Male,Private sector employee,Rs.30001 - Rs.50000,Rarely,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety, Punctuality",No,Better,Average,Average,Never,Sometimes,Average,Average,Satisfied,Good,Yes,Satisfied
+R065,18 - 25,Male,Student,Below Rs. 10000,Rarely,Night,Yes,Online Payment,"Price, Comfort, Timing, Availability, Safety",No,Better,Average,Average,Sometimes,Sometimes,Average,Average,Neutral,Good,No,Satisfied
+R066,18 - 25,Female,Student,Below Rs. 10000,Rarely,Morning,Yes,Cash,Price,No,Better,Average,Very Poor,Very often,Sometimes,Average,Average,Very Satisfied,Good,Yes,Satisfied
+R067,Above 50,Male,Business,Rs.30001 - Rs.50000,Occasionally,Night,Yes,Cash,"Price, Availability",Yes,Worse,Poor,Poor,Sometimes,Often,Average,Very Poor,Dissatisfied,Good,Yes,Neutral
+R068,Above 50,Female,Homemaker,Below Rs. 10000,Occasionally,Night,Yes,Online Payment,"Price, Availability",Yes,Worse,Poor,Poor,Rarely,Often,Good,Good,Dissatisfied,Poor,No,Dissatisfied
+R069,Above 50,Male,Government employee,Above Rs.50000,Monthly,Night,Yes,Cash,"Price, Availability",Yes,Worse,Average,Average,Sometimes,Sometimes,Good,Good,Neutral,Average,Yes,Dissatisfied
+R070,36 - 50,Male,Private sector employee,Rs.30001 - Rs.50000,Monthly,Night,Yes,Cash,"Availability, Punctuality",Yes,Same,Poor,Poor,Very often,Always,Very Poor,Very Poor,Dissatisfied,Good,Yes,Neutral
+R071,Above 50,Male,Business,Above Rs.50000,Weekly,Night,Yes,Cash,"Price, Availability",Yes,Worse,Average,Very Poor,Rarely,Sometimes,Good,Poor,Very Satisfied,Very Poor,No,Dissatisfied
+R072,18 - 25,Female,Student,Below Rs. 10000,Occasionally,Morning,Yes,Online Payment,Comfort,Yes,Much Better,Excellent,Excellent,Rarely,Rarely,Excellent,Excellent,Satisfied,Excellent,Yes,Very Satisfied
+R073,26 - 35,Male,Student,Below Rs. 10000,Monthly,Morning,Yes,Online Payment,"Comfort, Safety",Yes,Better,Average,Average,Sometimes,Rarely,Average,Average,Satisfied,Good,No,Dissatisfied
+R074,36 - 50,Male,Government employee,Rs.20001 - Rs.30000,Monthly,Night,Yes,Through Agent,Timing,Yes,Worse,Good,Very Poor,Often,Often,Poor,Poor,Dissatisfied,Average,Yes,Neutral
+R075,36 - 50,Female,Business,Rs.30001 - Rs.50000,Monthly,Night,Yes,Online Payment,Safety,Yes,Same,Average,Good,Sometimes,Often,Average,Average,Satisfied,Good,Yes,Satisfied
+R076,18 - 25,Male,Student,Below Rs. 10000,Rarely,Night,Yes,Online Payment,"Comfort, Timing, Safety, Punctuality",Yes,Better,Average,Average,Often,Often,Average,Average,Satisfied,Average,Yes,Neutral
+R077,Above 50,Male,Business,Rs.20001 - Rs.30000,Occasionally,Morning,Yes,Online Payment,Availability,Yes,Much Better,Good,Average,Sometimes,Sometimes,Average,Average,Neutral,Average,Yes,Neutral
+R078,36 - 50,Male,Business,Rs.30001 - Rs.50000,Weekly,Night,Yes,Cash,"Price, Availability, Safety",Yes,Worse,Poor,Average,Rarely,Often,Poor,Very Poor,Dissatisfied,Poor,No,Neutral
+R079,18 - 25,Male,Government employee,Rs.30001 - Rs.50000,Monthly,Morning,Yes,Through Agent,"Price, Availability",Yes,Same,Poor,Poor,Often,Sometimes,Good,Poor,Neutral,Poor,No,Neutral
+R080,18 - 25,Female,Private sector employee,Rs.10000 - Rs.20000,Occasionally,Morning,No,Online Payment,"Comfort, Availability, Safety",No,Better,Good,Good,Sometimes,Sometimes,Good,Good,Satisfied,Good,Yes,Satisfied
+R081,Above 50,Male,Homemaker,Above Rs.50000,Daily,Night,Yes,Online Payment,"Timing, Availability, Safety",Yes,Same,Poor,Poor,Often,Often,Average,Good,Dissatisfied,Good,No,Dissatisfied
+R082,Above 50,Female,Private sector employee,Rs.30001 - Rs.50000,Monthly,Morning,Yes,Through Agent,"Timing, Safety",Yes,Worse,Poor,Very Poor,Very often,Always,Poor,Very Poor,Dissatisfied,Average,No,Dissatisfied
+R083,Above 50,Male,Business,Rs.30001 - Rs.50000,Occasionally,Night,Yes,Online Payment,"Price, Timing, Availability",Yes,Much Worse,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Dissatisfied,Very Poor,No,Very Dissatisfied
+R084,Above 50,Male,Other,Above Rs.50000,Rarely,Night,Yes,Through Agent,"Timing, Availability",Yes,Worse,Poor,Very Poor,Very often,Often,Very Poor,Poor,Dissatisfied,Poor,No,Very Satisfied
+R085,36 - 50,Male,Homemaker,Rs.30001 - Rs.50000,Weekly,Night,Yes,Cash,Price,Yes,Same,Very Poor,Average,Sometimes,Often,Average,Average,Dissatisfied,Average,Yes,Neutral
+R086,Above 50,Male,Business,Below Rs. 10000,Rarely,Morning,Yes,Through Agent,Punctuality,No,Much Worse,Very Poor,Very Poor,Very often,Always,Very Poor,Very Poor,Very Satisfied,Poor,Yes,Very Satisfied
+R087,Above 50,Male,Homemaker,Above Rs.50000,Rarely,Night,Yes,Online Payment,Safety,Yes,Much Worse,Average,Poor,Often,Often,Poor,Poor,Satisfied,Poor,No,Satisfied
+R088,Above 50,Male,Government employee,Rs.30001 - Rs.50000,Weekly,Night,No,Online Payment,"Timing, Safety",Yes,Better,Poor,Poor,Often,Often,Poor,Poor,Satisfied,Poor,No,Very Satisfied
+R089,Above 50,Male,Government employee,Rs.10000 - Rs.20000,Weekly,Night,No,Online Payment,"Price, Timing, Safety",No,Better,Poor,Poor,Often,Often,Poor,Poor,Satisfied,Poor,No,Satisfied
+R090,Above 50,Male,Government employee,Rs.10000 - Rs.20000,Weekly,Night,No,Online Payment,Comfort,No,Better,Average,Poor,Sometimes,Often,Poor,Good,Neutral,Average,Yes,Dissatisfied
+R091,Above 50,Male,Homemaker,Rs.10000 - Rs.20000,Weekly,Night,No,Online Payment,Timing,Yes,Better,Average,Excellent,Sometimes,Always,Average,Good,Very Dissatisfied,Good,Yes,Neutral
+R092,Above 50,Male,Government employee,Rs.30001 - Rs.50000,Monthly,Night,No,Through Agent,"Availability, Safety",Yes,Same,Good,Poor,Very often,Sometimes,Poor,Good,Satisfied,Poor,No,Satisfied
+R093,18 - 25,Female,Government employee,Rs.10000 - Rs.20000,Weekly,Night,No,Online Payment,Safety,No,Better,Poor,Poor,Rarely,Often,Poor,Poor,Satisfied,Poor,No,Satisfied
+R094,18 - 25,Female,Private sector employee,Rs.10000 - Rs.20000,Weekly,Morning,Yes,Online Payment,"Comfort, Availability",Yes,Better,Poor,Poor,Often,Often,Poor,Excellent,Very Dissatisfied,Excellent,No,Satisfied
+R095,Above 50,Female,Government employee,Rs.10000 - Rs.20000,Weekly,Night,No,Online Payment,"Timing, Availability",No,Better,Poor,Poor,Often,Rarely,Excellent,Poor,Very Dissatisfied,Poor,Yes,Satisfied
+R096,Above 50,Female,Government employee,Rs.10000 - Rs.20000,Weekly,Night,Yes,Online Payment,Availability,No,Better,Poor,Poor,Often,Often,Excellent,Very Poor,Very Satisfied,Very Poor,No,Very Dissatisfied
+R097,36 - 50,Female,Government employee,Above Rs.50000,Occasionally,Morning,Yes,Online Payment,"Timing, Availability",No,Better,Excellent,Good,Never,Rarely,Excellent,Excellent,Very Dissatisfied,Excellent,No,Very Dissatisfied
+R098,26 - 35,Female,Government employee,Rs.10000 - Rs.20000,Weekly,Morning,No,Through Agent,"Availability, Punctuality",Yes,Better,Excellent,Excellent,Often,Often,Poor,Excellent,Very Dissatisfied,Excellent,No,Very Dissatisfied
+R099,Above 50,Female,Private sector employee,Rs.10000 - Rs.20000,Weekly,Night,Yes,Online Payment,Safety,No,Better,Excellent,Excellent,Never,Sometimes,Excellent,Excellent,Very Dissatisfied,Poor,Yes,Very Dissatisfied
+R100,18 - 25,Male,Student,Rs.10000 - Rs.20000,Monthly,Night,Yes,Online Payment,Comfort,Yes,Much Better,Average,Excellent,Sometimes,Always,Average,Average,Very Satisfied,Good,Yes,Very Satisfied
+R101,26 - 35,Female,Student,Rs.10000 - Rs.20000,Rarely,Morning,Yes,Cash,Availability,Yes,Better,Average,Good,Rarely,Sometimes,Average,Average,Satisfied,Average,Yes,Satisfied
+R102,18 - 25,Male,Student,Below Rs. 10000,Occasionally,Night,Yes,Cash,Safety,Yes,Much Better,Excellent,Very Poor,Sometimes,Always,Excellent,Very Poor,Very Satisfied,Excellent,Yes,Very Satisfied
+R103,18 - 25,Male,Student,Below Rs. 10000,Occasionally,Night,Yes,Online Payment,"Price, Timing",No,Same,Poor,Poor,Rarely,Rarely,Poor,Poor,Dissatisfied,Poor,No,Dissatisfied
+R104,18 - 25,Male,Government employee,Rs.20001 - Rs.30000,Occasionally,Night,Yes,Online Payment,"Timing, Availability",No,Worse,Poor,Poor,Rarely,Rarely,Poor,Poor,Dissatisfied,Poor,No,Dissatisfied
